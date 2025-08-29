@@ -13,6 +13,10 @@ public class NumBall : ModuleRules
 			, "Engine"
 			, "InputCore"
 			, "EnhancedInput"
+			, "UMG"
+			, "Slate"
+			, "SlateCore"
+			,
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[]
